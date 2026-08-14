@@ -16,7 +16,7 @@
 I design digital experiences that drive growth: UI/UX, brand systems, and web across e-commerce, higher ed, and enterprise. I lead the design practice at **[Sumeru](https://nishantt.com/work/sumeru)**, a 600+ person consulting firm, and I build AI into every step of how I work. The chat on my portfolio even runs on a language model I host myself, on an old gaming laptop. That is the kind of designer I am.
 
 - 🎓 &nbsp; BFA in Design from **USC**, minor in Computer Programming. Summa Cum Laude, Renaissance Scholar.
-- 🏆 &nbsp; 2025 **Web Excellence Award**, and **Top Rated Plus** on Upwork (4.97 / 5.0 across 40+ clients).
+- 🏆 &nbsp; 2025 **Web Excellence Award**, and **Top Rated Plus** on Upwork (4.97 / 5.0 across 30+ clients).
 - 🎮 &nbsp; Shipped UI for **Marvel's Wolverine** at Insomniac Games.
 - 🌍 &nbsp; 40+ clients worldwide, 50M+ users impacted, and most of them keep coming back.
 - 📍 &nbsp; Based in Los Angeles, comfortable working across every US timezone.

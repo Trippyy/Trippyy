@@ -60,7 +60,7 @@ I design digital experiences that drive growth: UI/UX, brand systems, and web ac
 
 ## ✨ Off the clock
 
-Vector illustration and 3D character art, a blue Yamaha R3, and the great outdoors.
+cooking (literally), riding a blue Yamaha R3, and roaming the great outdoors.
 
 ---
 
